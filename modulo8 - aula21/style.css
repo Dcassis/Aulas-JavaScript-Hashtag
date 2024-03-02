@@ -1,0 +1,12 @@
+body{
+    font-family: arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+img{
+    width: 220px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+}
